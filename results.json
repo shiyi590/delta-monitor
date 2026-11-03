@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 23:31:36",
+  "generated_at": "2026-11-03 23:31:37",
   "rules": [
     "① 9格保险（顶级安全箱 3×3 = 9格）",
     "② 负重 ≥ 6级（靶场等级 6级及以上）",
@@ -14,7 +14,7 @@
       "price_type": "租金",
       "fetched_count": 40,
       "good_count": 40,
-      "fetch_time": "2026-11-03 23:31:10",
+      "fetch_time": "2026-11-03 23:31:11",
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "price_type": "售价",
       "fetched_count": 3,
       "good_count": 2,
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "price_type": "售价",
       "fetched_count": 60,
       "good_count": 39,
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "price_type": "租金",
       "fetched_count": 3,
       "good_count": 1,
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "error": null
     },
     {
@@ -104,7 +104,7 @@
       "price_type": "租金",
       "fetched_count": 0,
       "good_count": 0,
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "price_type": "租金",
       "fetched_count": 65,
       "good_count": 48,
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "price_type": "租金",
       "fetched_count": 89,
       "good_count": 67,
-      "fetch_time": "2026-11-03 23:31:35",
+      "fetch_time": "2026-11-03 23:31:36",
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "price_type": "租金",
       "fetched_count": 20,
       "good_count": 2,
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "error": null
     }
   ],
@@ -387,7 +387,7 @@
       "deposit": 263.41,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/5bcc24f133e247a590695d3f24724b72.png"
     },
     {
@@ -421,7 +421,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:18:37",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/f13c4440-a98c-4c61-8c40-b2229ce518ae.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -455,7 +455,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:59",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/c7178fc3-83f5-4963-b1fa-423a2cd7e533.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -591,7 +591,7 @@
       "deposit": 545.65,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -693,7 +693,7 @@
       "deposit": 222.58,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:18:44",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -744,7 +744,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:26:37",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3363c712-7267-42d5-87eb-adefed2e958c.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -778,7 +778,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:23:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/8ac149bf-c499-49c0-a9b1-bf57ae8377dc.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -795,7 +795,7 @@
       "deposit": 316.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T10:24:49+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -812,7 +812,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:24:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/a120543d-b582-4f23-9067-a2232896b623.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -829,7 +829,7 @@
       "deposit": 215.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:39:47+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -897,7 +897,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:34:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/7c276fcb-b46c-4120-ab21-3781de953b7b.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1016,7 +1016,7 @@
       "deposit": 290.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T20:39:15+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1084,7 +1084,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:22:30",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/d27440b3-c489-4793-b4fe-b2b741f979ac.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1118,7 +1118,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 17:17:19",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/fb6b9d69-71fc-4c58-9581-7f44d8357030.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1186,7 +1186,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T07:23:33.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb3483.jpg"
     },
     {
@@ -1203,7 +1203,7 @@
       "deposit": 357.95,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:05:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1237,7 +1237,7 @@
       "deposit": 303.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:41:53+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1305,7 +1305,7 @@
       "deposit": 411.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T10:50:13+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1322,7 +1322,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-02T12:34:20.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/c9e9458601530274cf725172c.jpg"
     },
     {
@@ -1339,7 +1339,7 @@
       "deposit": 343.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T08:56:01+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1424,7 +1424,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-09-27T03:42:28.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/fc1d239e35b99df82816c23bc.jpg"
     },
     {
@@ -1475,7 +1475,7 @@
       "deposit": 400.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 16:17:13",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/490b962c-c19a-4785-9ceb-b43f2a0811e0.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1492,7 +1492,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T14:47:04.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/39860d1467d27afb735491f57.jpg"
     },
     {
@@ -1509,7 +1509,7 @@
       "deposit": 250.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:55:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1543,7 +1543,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 02:15",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": null,
       "is_gone": false
     },
@@ -1561,7 +1561,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 22:25:26",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/256b9fd4-631e-4796-84da-d5163340029f.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1578,7 +1578,7 @@
       "deposit": 387.5,
       "price_type": "租金",
       "publish_time": "2026-10-30 20:30:19",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1612,7 +1612,7 @@
       "deposit": 444.0,
       "price_type": "租金",
       "publish_time": "2026-11-02T13:10:07+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1629,7 +1629,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T13:15:53.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/028b762a2fda7b2a6ee6281bb.jpg"
     },
     {
@@ -1646,7 +1646,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 18:50:08",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3686bab6-7243-47ad-9110-7faa6e709f88.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1663,7 +1663,7 @@
       "deposit": 650.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:53:40",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/5e28f1c6-4627-40b3-a89e-e00052e9f884.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1714,7 +1714,7 @@
       "deposit": 304.52,
       "price_type": "租金",
       "publish_time": "2026-11-03 20:40:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/ff3bbf9931854915b3326442bf369060.jpg"
     },
     {
@@ -1748,7 +1748,24 @@
       "deposit": 276.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:24",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
+      "image_url": null
+    },
+    {
+      "platform": "虚贝",
+      "url": "https://sjzweb.xubei.com/sjz_goods_details?sjzGoodsCode=902542828762845",
+      "goods_code": "902542828762845",
+      "title": "纯币资产:442M，安全箱:(3*3)，体力:6，负重:6，KD:0.1，AWM子弹:30，刀皮:无，等级:60，游戏区服:微信，段位:钻石，登录方式:扫码登录",
+      "pure_coins_M": 442.0,
+      "awm_bullets": 30,
+      "insurance_grids": 9,
+      "weight_level": 6,
+      "stamina_level": 6,
+      "rent": 1040.0,
+      "deposit": 276.0,
+      "price_type": "租金",
+      "publish_time": "2026-10-30 11:32:24",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1765,7 +1782,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T11:11:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/f8d0577bbd3971027fc3436ad.jpg"
     },
     {
@@ -1782,7 +1799,7 @@
       "deposit": 916.67,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:48",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/b98b74a32c534bdcaad0613939575699.jpg"
     },
     {
@@ -1799,7 +1816,7 @@
       "deposit": 383.62,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:30:23",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/b6c5b84846ed4184b3d9ece527939ec1.png"
     },
     {
@@ -1816,7 +1833,7 @@
       "deposit": 541.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T23:19:32+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1833,7 +1850,7 @@
       "deposit": 381.43,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:21",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/259581ad53244d0481da8b9725c05469.jpg"
     },
     {
@@ -1850,7 +1867,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T13:14:57.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/1d6194bb0dfc63973f2163bb5.jpg"
     },
     {
@@ -1867,7 +1884,7 @@
       "deposit": 574.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T23:20:00+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -1901,7 +1918,7 @@
       "deposit": 471.25,
       "price_type": "租金",
       "publish_time": "2026-11-03 02:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1935,7 +1952,7 @@
       "deposit": 437.5,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:41:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1952,7 +1969,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 03:30:00",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -1969,7 +1986,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:09:49",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/55668ad3-077f-45ea-8d1b-59648b754bc7.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -1986,7 +2003,7 @@
       "deposit": 380.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 23:16:12",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/b4b32d9d-32d2-4062-9b9a-e65dcfe57256.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2020,7 +2037,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T08:11:39.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb34fe.jpg"
     },
     {
@@ -2037,7 +2054,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T11:18:27.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/068f2af9e9602e29d4876cc4d.jpg"
     },
     {
@@ -2054,7 +2071,7 @@
       "deposit": 573.46,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:18:48",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -2105,7 +2122,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 00:10:48",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/f2466018-c0d0-4dbb-9a7b-ca999a32dea1.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2190,7 +2207,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 21:24:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/fe3f27dc-a125-4846-975a-7106f8d26e35.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2224,7 +2241,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T17:59:13.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/4c09fecba296c394272636010.jpg"
     },
     {
@@ -2241,7 +2258,7 @@
       "deposit": 720.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:30:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -2258,7 +2275,7 @@
       "deposit": 420.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T06:59:16.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb3448.png"
     },
     {
@@ -2275,7 +2292,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T13:08:31.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/1d6194bb0dfc63973f2163ba2.jpg"
     },
     {
@@ -2309,7 +2326,7 @@
       "deposit": 666.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 19:32:27",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/f6d32889-d314-4cc7-8883-9260e76b4d34.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2360,7 +2377,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 18:18:58",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c8d02fae-19c2-4327-9164-e4a893e6aea4.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2377,7 +2394,7 @@
       "deposit": 850.0,
       "price_type": "租金",
       "publish_time": "2026-10-07 22:22:45",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026107/5d2f7268-3fae-45ba-95ea-a16572b50eeb.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2394,7 +2411,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 18:39:27",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/7b74280b-515a-45ab-81d3-22b5bc8fa709.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2411,7 +2428,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 09:04:02",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c2dd1f63-a789-49fc-8b43-d21b3cb7aee9.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2445,7 +2462,7 @@
       "deposit": 950.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:15:51",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/315b821a-20ae-46dc-b108-86b44ac30ea4.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2479,7 +2496,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T06:31:08.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/7801e6331a62f4bdf2d8efba5.jpg"
     },
     {
@@ -2496,7 +2513,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:51:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/3dc53102-f9dc-4cc7-ae57-625904058583.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2513,7 +2530,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-10-29 22:35:28",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/ee343a8e-8ff4-4e25-8147-8396f98d16a5.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2547,7 +2564,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:08:58",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3155614b-4023-4168-9380-86681447eed4.png?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2564,7 +2581,7 @@
       "deposit": 900.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 17:15:14",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/ffdee577-d77c-4b6a-8d34-5dd62bacfac5.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2581,7 +2598,7 @@
       "deposit": 548.0,
       "price_type": "租金",
       "publish_time": "2026-11-02T06:59:57+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -2598,7 +2615,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-10-06 17:05:46",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026105/6fc9284d-3f0f-4684-9976-2dee242aa519.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2700,7 +2717,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:55:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -2717,7 +2734,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-29 23:39:31",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/a347f5f9-9aff-4557-930b-2ad427419b8d.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2734,7 +2751,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 19:38:47",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/ce48de84-38a8-4495-a02e-9a1f35ff7ce2.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2751,7 +2768,7 @@
       "deposit": 599.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 20:24:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261030/a06fa802-6023-4d38-bcd8-b0c118ce1c2f.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2768,7 +2785,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T20:56:50.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/719c1535949a4ca4d4e809455.jpg"
     },
     {
@@ -2785,7 +2802,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:35:45",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -2802,7 +2819,7 @@
       "deposit": 350.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T14:15:15.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/9caff0f9b5ef296c3cf20f48d.jpg"
     },
     {
@@ -2819,7 +2836,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:41:18",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/551fc336-24d8-4641-8006-c47396e7c0b8.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2887,7 +2904,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 23:15:51",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c641151b-bdfe-4c7e-a810-2a58652a5cd6.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2904,7 +2921,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 20:10:06",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c641151b-bdfe-4c7e-a810-2a58652a5cd6.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2921,7 +2938,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T02:41:22.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e13bbff9928f0ac0f222ce89d.jpg"
     },
     {
@@ -2938,7 +2955,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 18:17:21",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/37c71c95-b61c-45ce-bbf7-0fa46d5d0192.png?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2972,7 +2989,7 @@
       "deposit": 799.0,
       "price_type": "租金",
       "publish_time": "2026-10-15 01:01:00",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261015/79482b84-5215-48c5-84bb-db70e6754989.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -2989,7 +3006,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T18:01:49.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/4c09fecba296c394272636014.jpg"
     },
     {
@@ -3023,7 +3040,7 @@
       "deposit": 588.24,
       "price_type": "租金",
       "publish_time": "2026-11-02 16:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -3108,7 +3125,7 @@
       "deposit": 900.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 16:14:31",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/ab65450a-f10d-4d09-82cb-9ede18f2cff3.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3142,7 +3159,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 23:36:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/6441aa2f-d0c5-4575-ae0c-120be23066d3.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3159,7 +3176,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:41:06+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -3193,7 +3210,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 17:06:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/26280120-4526-4965-94a6-ae6e8acd5f57.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3227,7 +3244,7 @@
       "deposit": 621.43,
       "price_type": "租金",
       "publish_time": "2026-11-03 15:25:38",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/9b3348a9d3dc40828fbe614991c87420.jpg"
     },
     {
@@ -3244,7 +3261,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:52:44",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/66551589-9bc2-40a5-a0ef-25de1c394f5c.JPG?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3261,7 +3278,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 07:53:04",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026105/8625ea2a-0f1f-4c1d-a9ef-16c12a84b5a2.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3295,7 +3312,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 22:51:17",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261030/ae832f77-7f30-41d2-95ad-7eb93ac1c432.png?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3312,7 +3329,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-27 00:58:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261027/8adc5d9e-ffb1-4145-9ba9-fd25876af13d.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3329,7 +3346,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T09:25:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/2c468e2c4d209a5e31cd0c21d.jpg"
     },
     {
@@ -3363,7 +3380,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:51:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c6b32e70-e470-4d9b-b557-1e51bf83837b.png?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3380,7 +3397,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T05:44:00.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/26f238aa7a50254cbfaa92ffe.jpg"
     },
     {
@@ -3414,7 +3431,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T12:34:18.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/271ea77797b58b1f18f745e81.jpg"
     },
     {
@@ -3448,7 +3465,7 @@
       "deposit": 671.16,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:00:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -3465,7 +3482,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 18:35:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/88bbd4f0-d9c0-4682-85b7-af4bdcefee8d.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3482,7 +3499,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T14:28:36.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/5d157aa6611f915700a87134f.jpg"
     },
     {
@@ -3533,7 +3550,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-09-27T12:58:24.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/a39e13751b988c7f8a9028b60.jpg"
     },
     {
@@ -3720,7 +3737,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 23:53:08",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/0de1552e-2e7e-4887-bc90-dba9d443dd7e.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3771,7 +3788,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T17:58:47.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/05000611e509983f3dbae0dbc.jpg"
     },
     {
@@ -3822,7 +3839,7 @@
       "deposit": 768.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T12:09:55+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -3856,7 +3873,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:14:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/7e9664fe-f075-49ae-afdb-5af05032ec0b.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3907,7 +3924,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 14:19:12",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/19dedce2-635a-42ee-b1b6-3ecd5d2ce804.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -3924,7 +3941,7 @@
       "deposit": 702.13,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:08:43",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -4043,7 +4060,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T08:49:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/671644e5b6c22d95a442ff1be.jpg"
     },
     {
@@ -4128,7 +4145,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/98b3646323e14d91995efa9d35d44179.png"
     },
     {
@@ -4145,7 +4162,7 @@
       "deposit": 793.27,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:10:14",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -4162,7 +4179,7 @@
       "deposit": 727.17,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -4196,7 +4213,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-10-16 00:20:11",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261016/fa62188b-c71e-477f-899d-9adc9ff5ef2d.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4281,7 +4298,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-21 10:21:14",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261021/d9c3a3a9-b4ae-4578-9eb0-c1da24b0c692.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4332,7 +4349,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 14:36:55",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/b0f6ae5c-b261-4389-838c-4762ee35cca3.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4400,7 +4417,7 @@
       "deposit": 1400.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:07:11",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/d97e8775351641e6b3fb7e20c4a9e494.png"
     },
     {
@@ -4417,7 +4434,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 09:59:04",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/facd7a8b-69a7-4bd6-8f5c-bf862316f807.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4451,7 +4468,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-19 06:50:45",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261018/f1413f23-182b-4996-a9c6-3e0455ce18f1.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4485,7 +4502,7 @@
       "deposit": 1600.0,
       "price_type": "租金",
       "publish_time": "2026-10-06 20:10:50",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026106/096578a2-8dc8-4362-b633-336a06653696.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4536,7 +4553,7 @@
       "deposit": 1700.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 16:07:05",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026103/53b5c660-e9c2-4525-b383-603329d37e7c.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4587,7 +4604,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 15:37:49",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/83435673-e14c-44c9-b916-342688abbf23.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4638,7 +4655,7 @@
       "deposit": 1300.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 16:34:11",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/71c6e8bd-8304-4244-a37c-12a49a2015a9.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4689,7 +4706,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 16:01:42",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/5d8f76e0-d28d-4ef7-a684-e499ef5deceb.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4740,7 +4757,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 14:39:06",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/c74dc8d7-2e71-4868-9a07-df974943c243.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4757,7 +4774,7 @@
       "deposit": 1560.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 18:30:07",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/27910b4d64d44b74b560e9e89bc519c8.png"
     },
     {
@@ -4808,7 +4825,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:29:01",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/132d4a53-5075-4169-a0fc-d11e9b278bbf.png?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -4995,7 +5012,7 @@
       "deposit": 1020.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:45:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/3614b1550637418086ee174f0584a345.jpg"
     },
     {
@@ -5029,7 +5046,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 11:02:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/bd65c083-04c6-4d43-8819-a3bb3c78b5a9.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5114,7 +5131,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-07 17:40:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026107/6407e409-1278-43f8-81ac-36503f303d2b.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5148,7 +5165,7 @@
       "deposit": 4000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:14:32",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/f92b5b11-3642-402e-9fe7-730001b9bdab.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5165,7 +5182,7 @@
       "deposit": 1052.4,
       "price_type": "租金",
       "publish_time": "2026-11-03 01:25:49",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/beb1bf0d97c148679070fd96f30ba331.jpg"
     },
     {
@@ -5199,7 +5216,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:31:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/b9bc078777d5458283819d0fcaebe545.jpg"
     },
     {
@@ -5233,7 +5250,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 14:24:20",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/9878160d-ab00-4e48-8c7a-d483bcabb184.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5250,7 +5267,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-08 00:26:50",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026108/b6e3e70a-e21d-4ad6-8c99-a662057bdb6d.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5267,7 +5284,7 @@
       "deposit": 1320.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 01:00:00",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5284,7 +5301,7 @@
       "deposit": 900.0,
       "price_type": "售价",
       "publish_time": "2026-10-31 18:23:25",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://img.ysc9.com/2026/10/31/2c9b548ba138523201a1917a438a0c34.jpg"
     },
     {
@@ -5301,7 +5318,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-27 16:50:04",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null
     },
     {
@@ -5420,7 +5437,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5437,7 +5454,7 @@
       "deposit": 2000.0,
       "price_type": "售价",
       "publish_time": "2026-11-03 19:14:38",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://img.ysc9.com/2026/11/03/2c9b548ba19b877001a1a11b64a3063d.jpg"
     },
     {
@@ -5454,7 +5471,7 @@
       "deposit": 1331.32,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:48:09",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5488,7 +5505,7 @@
       "deposit": 1786.2,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:30:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5522,7 +5539,7 @@
       "deposit": 1531.2,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:31:50",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5539,7 +5556,7 @@
       "deposit": 2800.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 21:30:06",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5624,7 +5641,7 @@
       "deposit": 3000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 00:59:07",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/5764fb6a-dea0-458a-8706-ba28d851ef1a.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5641,7 +5658,7 @@
       "deposit": 4000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:16:30",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/a1ac44f3-580a-43fc-9dcc-fc2c32ce7731.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5658,7 +5675,7 @@
       "deposit": 7346.94,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:40:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     },
     {
@@ -5692,7 +5709,7 @@
       "deposit": 2172.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 02:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/4a5d31da4c024df2b1561e36203fffc1.jpg"
     },
     {
@@ -5709,7 +5726,7 @@
       "deposit": 6000.0,
       "price_type": "租金",
       "publish_time": "2026-10-18 17:55:20",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/7387008c-757f-4db2-8a7c-536238003965.jpg?imageView2/1/format/webp/ignore-error/1"
     },
     {
@@ -5743,7 +5760,7 @@
       "deposit": 12280.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:07",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null
     }
   ],
@@ -5765,7 +5782,7 @@
       "fetch_time": "2026-11-03 23:30:48",
       "image_url": null,
       "status": "已失效",
-      "gone_at": "2026-11-03 23:31:36"
+      "gone_at": "2026-11-03 23:31:37"
     },
     {
       "platform": "虚贝",
@@ -5784,7 +5801,7 @@
       "fetch_time": "2026-11-03 23:30:29",
       "image_url": null,
       "status": "已失效",
-      "gone_at": "2026-11-03 23:31:36"
+      "gone_at": "2026-11-03 23:31:37"
     },
     {
       "platform": "虚贝",
@@ -5803,26 +5820,7 @@
       "fetch_time": "2026-11-03 23:30:29",
       "image_url": "https://files.xubei.com/demon/440b21418d3c405aa592b6d19829ce25.jpg",
       "status": "已失效",
-      "gone_at": "2026-11-03 23:31:36"
-    },
-    {
-      "platform": "虚贝",
-      "url": "https://sjzweb.xubei.com/sjz_goods_details?sjzGoodsCode=902542828762845",
-      "goods_code": "902542828762845",
-      "title": "纯币资产:442M，安全箱:(3*3)，体力:6，负重:6，KD:0.1，AWM子弹:30，刀皮:无，等级:60，游戏区服:微信，段位:钻石，登录方式:扫码登录",
-      "pure_coins_M": 442.0,
-      "awm_bullets": 30,
-      "insurance_grids": 9,
-      "weight_level": 6,
-      "stamina_level": 6,
-      "rent": 1040.0,
-      "deposit": 276.0,
-      "price_type": "租金",
-      "publish_time": "2026-10-30 11:32:24",
-      "fetch_time": "2026-11-03 23:30:29",
-      "image_url": null,
-      "status": "已失效",
-      "gone_at": "2026-11-03 23:31:36"
+      "gone_at": "2026-11-03 23:31:37"
     },
     {
       "platform": "98lj凌绝",
@@ -5841,7 +5839,7 @@
       "fetch_time": "2026-11-03 23:30:38",
       "image_url": "https://tx.98lj.com/20261022/9911254/sjz/40288578a0e7803f01a162b8a4893a5a.png",
       "status": "已失效",
-      "gone_at": "2026-11-03 23:31:36"
+      "gone_at": "2026-11-03 23:31:37"
     }
   ],
   "all_accounts": [
@@ -6075,7 +6073,7 @@
       "deposit": 263.41,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/5bcc24f133e247a590695d3f24724b72.png",
       "is_good": true
     },
@@ -6111,7 +6109,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:18:37",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/f13c4440-a98c-4c61-8c40-b2229ce518ae.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6147,7 +6145,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:59",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/c7178fc3-83f5-4963-b1fa-423a2cd7e533.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6291,7 +6289,7 @@
       "deposit": 545.65,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -6399,7 +6397,7 @@
       "deposit": 222.58,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:18:44",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -6453,7 +6451,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:26:37",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3363c712-7267-42d5-87eb-adefed2e958c.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6489,7 +6487,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:23:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/8ac149bf-c499-49c0-a9b1-bf57ae8377dc.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6507,7 +6505,7 @@
       "deposit": 316.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T10:24:49+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -6525,7 +6523,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:24:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/a120543d-b582-4f23-9067-a2232896b623.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6543,7 +6541,7 @@
       "deposit": 215.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:39:47+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -6615,7 +6613,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:34:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/7c276fcb-b46c-4120-ab21-3781de953b7b.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6741,7 +6739,7 @@
       "deposit": 290.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T20:39:15+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -6813,7 +6811,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:22:30",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/d27440b3-c489-4793-b4fe-b2b741f979ac.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6849,7 +6847,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 17:17:19",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/fb6b9d69-71fc-4c58-9581-7f44d8357030.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -6921,7 +6919,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T07:23:33.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb3483.jpg",
       "is_good": true
     },
@@ -6939,7 +6937,7 @@
       "deposit": 357.95,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:05:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -6957,7 +6955,7 @@
       "deposit": 303.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:41:53+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7029,7 +7027,7 @@
       "deposit": 411.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T10:50:13+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7047,7 +7045,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-02T12:34:20.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/c9e9458601530274cf725172c.jpg",
       "is_good": true
     },
@@ -7065,7 +7063,7 @@
       "deposit": 343.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T08:56:01+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7155,7 +7153,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-09-27T03:42:28.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/fc1d239e35b99df82816c23bc.jpg",
       "is_good": true
     },
@@ -7209,7 +7207,7 @@
       "deposit": 400.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 16:17:13",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/490b962c-c19a-4785-9ceb-b43f2a0811e0.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7227,7 +7225,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T14:47:04.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/39860d1467d27afb735491f57.jpg",
       "is_good": true
     },
@@ -7245,7 +7243,7 @@
       "deposit": 250.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:55:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7281,7 +7279,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 22:25:26",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/256b9fd4-631e-4796-84da-d5163340029f.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7299,7 +7297,7 @@
       "deposit": 387.5,
       "price_type": "租金",
       "publish_time": "2026-10-30 20:30:19",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7335,7 +7333,7 @@
       "deposit": 444.0,
       "price_type": "租金",
       "publish_time": "2026-11-02T13:10:07+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7353,7 +7351,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T13:15:53.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/028b762a2fda7b2a6ee6281bb.jpg",
       "is_good": true
     },
@@ -7371,7 +7369,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 18:50:08",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3686bab6-7243-47ad-9110-7faa6e709f88.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7389,7 +7387,7 @@
       "deposit": 650.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:53:40",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/5e28f1c6-4627-40b3-a89e-e00052e9f884.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7443,7 +7441,7 @@
       "deposit": 304.52,
       "price_type": "租金",
       "publish_time": "2026-11-03 20:40:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/ff3bbf9931854915b3326442bf369060.jpg",
       "is_good": true
     },
@@ -7479,7 +7477,25 @@
       "deposit": 276.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:24",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
+      "image_url": null,
+      "is_good": true
+    },
+    {
+      "platform": "虚贝",
+      "url": "https://sjzweb.xubei.com/sjz_goods_details?sjzGoodsCode=902542828762845",
+      "goods_code": "902542828762845",
+      "title": "纯币资产:442M，安全箱:(3*3)，体力:6，负重:6，KD:0.1，AWM子弹:30，刀皮:无，等级:60，游戏区服:微信，段位:钻石，登录方式:扫码登录",
+      "pure_coins_M": 442.0,
+      "awm_bullets": 30,
+      "insurance_grids": 9,
+      "weight_level": 6,
+      "stamina_level": 6,
+      "rent": 1040.0,
+      "deposit": 276.0,
+      "price_type": "租金",
+      "publish_time": "2026-10-30 11:32:24",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7497,7 +7513,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T11:11:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/f8d0577bbd3971027fc3436ad.jpg",
       "is_good": true
     },
@@ -7515,7 +7531,7 @@
       "deposit": 916.67,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:48",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/b98b74a32c534bdcaad0613939575699.jpg",
       "is_good": true
     },
@@ -7533,7 +7549,7 @@
       "deposit": 383.62,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:30:23",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/b6c5b84846ed4184b3d9ece527939ec1.png",
       "is_good": true
     },
@@ -7551,7 +7567,7 @@
       "deposit": 541.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T23:19:32+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7569,7 +7585,7 @@
       "deposit": 381.43,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:21",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/259581ad53244d0481da8b9725c05469.jpg",
       "is_good": true
     },
@@ -7587,7 +7603,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T13:14:57.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/1d6194bb0dfc63973f2163bb5.jpg",
       "is_good": true
     },
@@ -7605,7 +7621,7 @@
       "deposit": 574.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T23:20:00+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -7641,7 +7657,7 @@
       "deposit": 471.25,
       "price_type": "租金",
       "publish_time": "2026-11-03 02:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7677,7 +7693,7 @@
       "deposit": 437.5,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:41:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7695,7 +7711,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 03:30:00",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7713,7 +7729,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:09:49",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/55668ad3-077f-45ea-8d1b-59648b754bc7.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7731,7 +7747,7 @@
       "deposit": 380.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 23:16:12",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/b4b32d9d-32d2-4062-9b9a-e65dcfe57256.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7767,7 +7783,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T08:11:39.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb34fe.jpg",
       "is_good": true
     },
@@ -7785,7 +7801,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T11:18:27.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/068f2af9e9602e29d4876cc4d.jpg",
       "is_good": true
     },
@@ -7803,7 +7819,7 @@
       "deposit": 573.46,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:18:48",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -7857,7 +7873,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 00:10:48",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/f2466018-c0d0-4dbb-9a7b-ca999a32dea1.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7947,7 +7963,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 21:24:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/fe3f27dc-a125-4846-975a-7106f8d26e35.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -7983,7 +7999,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T17:59:13.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/4c09fecba296c394272636010.jpg",
       "is_good": true
     },
@@ -8001,7 +8017,7 @@
       "deposit": 720.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:30:02",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -8019,7 +8035,7 @@
       "deposit": 420.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T06:59:16.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e2b6bf7ae138c58c7fabb3448.png",
       "is_good": true
     },
@@ -8037,7 +8053,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T13:08:31.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/1d6194bb0dfc63973f2163ba2.jpg",
       "is_good": true
     },
@@ -8073,7 +8089,7 @@
       "deposit": 666.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 19:32:27",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/f6d32889-d314-4cc7-8883-9260e76b4d34.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8127,7 +8143,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 18:18:58",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c8d02fae-19c2-4327-9164-e4a893e6aea4.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8145,7 +8161,7 @@
       "deposit": 850.0,
       "price_type": "租金",
       "publish_time": "2026-10-07 22:22:45",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026107/5d2f7268-3fae-45ba-95ea-a16572b50eeb.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8163,7 +8179,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 18:39:27",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/7b74280b-515a-45ab-81d3-22b5bc8fa709.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8181,7 +8197,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 09:04:02",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c2dd1f63-a789-49fc-8b43-d21b3cb7aee9.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8217,7 +8233,7 @@
       "deposit": 950.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:15:51",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/315b821a-20ae-46dc-b108-86b44ac30ea4.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8253,7 +8269,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-01T06:31:08.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/7801e6331a62f4bdf2d8efba5.jpg",
       "is_good": true
     },
@@ -8271,7 +8287,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:51:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/3dc53102-f9dc-4cc7-ae57-625904058583.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8289,7 +8305,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-10-29 22:35:28",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/ee343a8e-8ff4-4e25-8147-8396f98d16a5.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8325,7 +8341,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:08:58",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/3155614b-4023-4168-9380-86681447eed4.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8343,7 +8359,7 @@
       "deposit": 900.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 17:15:14",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/ffdee577-d77c-4b6a-8d34-5dd62bacfac5.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8361,7 +8377,7 @@
       "deposit": 548.0,
       "price_type": "租金",
       "publish_time": "2026-11-02T06:59:57+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -8379,7 +8395,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-10-06 17:05:46",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026105/6fc9284d-3f0f-4684-9976-2dee242aa519.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8487,7 +8503,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:55:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -8505,7 +8521,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-29 23:39:31",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/a347f5f9-9aff-4557-930b-2ad427419b8d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8523,7 +8539,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 19:38:47",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/ce48de84-38a8-4495-a02e-9a1f35ff7ce2.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8541,7 +8557,7 @@
       "deposit": 599.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 20:24:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261030/a06fa802-6023-4d38-bcd8-b0c118ce1c2f.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8559,7 +8575,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T20:56:50.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/719c1535949a4ca4d4e809455.jpg",
       "is_good": true
     },
@@ -8577,7 +8593,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:35:45",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -8595,7 +8611,7 @@
       "deposit": 350.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T14:15:15.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/9caff0f9b5ef296c3cf20f48d.jpg",
       "is_good": true
     },
@@ -8613,7 +8629,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:41:18",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/551fc336-24d8-4641-8006-c47396e7c0b8.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8685,7 +8701,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 23:15:51",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c641151b-bdfe-4c7e-a810-2a58652a5cd6.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8703,7 +8719,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 20:10:06",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c641151b-bdfe-4c7e-a810-2a58652a5cd6.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8721,7 +8737,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T02:41:22.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/e13bbff9928f0ac0f222ce89d.jpg",
       "is_good": true
     },
@@ -8739,7 +8755,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 18:17:21",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/37c71c95-b61c-45ce-bbf7-0fa46d5d0192.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8775,7 +8791,7 @@
       "deposit": 799.0,
       "price_type": "租金",
       "publish_time": "2026-10-15 01:01:00",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261015/79482b84-5215-48c5-84bb-db70e6754989.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8793,7 +8809,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T18:01:49.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/4c09fecba296c394272636014.jpg",
       "is_good": true
     },
@@ -8829,7 +8845,7 @@
       "deposit": 588.24,
       "price_type": "租金",
       "publish_time": "2026-11-02 16:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -8919,7 +8935,7 @@
       "deposit": 900.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 16:14:31",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/ab65450a-f10d-4d09-82cb-9ede18f2cff3.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8955,7 +8971,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 23:36:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/6441aa2f-d0c5-4575-ae0c-120be23066d3.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -8973,7 +8989,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:41:06+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -9009,7 +9025,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 17:06:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/26280120-4526-4965-94a6-ae6e8acd5f57.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9045,7 +9061,7 @@
       "deposit": 621.43,
       "price_type": "租金",
       "publish_time": "2026-11-03 15:25:38",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/9b3348a9d3dc40828fbe614991c87420.jpg",
       "is_good": true
     },
@@ -9063,7 +9079,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:52:44",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/66551589-9bc2-40a5-a0ef-25de1c394f5c.JPG?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9081,7 +9097,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 07:53:04",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026105/8625ea2a-0f1f-4c1d-a9ef-16c12a84b5a2.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9117,7 +9133,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 22:51:17",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261030/ae832f77-7f30-41d2-95ad-7eb93ac1c432.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9135,7 +9151,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-27 00:58:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261027/8adc5d9e-ffb1-4145-9ba9-fd25876af13d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9153,7 +9169,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T09:25:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/2c468e2c4d209a5e31cd0c21d.jpg",
       "is_good": true
     },
@@ -9189,7 +9205,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 08:51:10",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c6b32e70-e470-4d9b-b557-1e51bf83837b.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9207,7 +9223,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T05:44:00.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/26f238aa7a50254cbfaa92ffe.jpg",
       "is_good": true
     },
@@ -9243,7 +9259,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T12:34:18.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/271ea77797b58b1f18f745e81.jpg",
       "is_good": true
     },
@@ -9279,7 +9295,7 @@
       "deposit": 671.16,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:00:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -9297,7 +9313,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 18:35:43",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/88bbd4f0-d9c0-4682-85b7-af4bdcefee8d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9315,7 +9331,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T14:28:36.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/5d157aa6611f915700a87134f.jpg",
       "is_good": true
     },
@@ -9369,7 +9385,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-09-27T12:58:24.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/a39e13751b988c7f8a9028b60.jpg",
       "is_good": true
     },
@@ -9567,7 +9583,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 23:53:08",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/0de1552e-2e7e-4887-bc90-dba9d443dd7e.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9621,7 +9637,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T17:58:47.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/05000611e509983f3dbae0dbc.jpg",
       "is_good": true
     },
@@ -9675,7 +9691,7 @@
       "deposit": 768.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T12:09:55+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -9711,7 +9727,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:14:25",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/7e9664fe-f075-49ae-afdb-5af05032ec0b.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9765,7 +9781,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-09 14:19:12",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026109/19dedce2-635a-42ee-b1b6-3ecd5d2ce804.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -9783,7 +9799,7 @@
       "deposit": 702.13,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:08:43",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -9909,7 +9925,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T08:49:10.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/671644e5b6c22d95a442ff1be.jpg",
       "is_good": true
     },
@@ -9999,7 +10015,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/98b3646323e14d91995efa9d35d44179.png",
       "is_good": true
     },
@@ -10017,7 +10033,7 @@
       "deposit": 793.27,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:10:14",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -10035,7 +10051,7 @@
       "deposit": 727.17,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:30:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -10071,7 +10087,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-10-16 00:20:11",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261016/fa62188b-c71e-477f-899d-9adc9ff5ef2d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10161,7 +10177,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-21 10:21:14",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261021/d9c3a3a9-b4ae-4578-9eb0-c1da24b0c692.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10215,7 +10231,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 14:36:55",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/b0f6ae5c-b261-4389-838c-4762ee35cca3.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10287,7 +10303,7 @@
       "deposit": 1400.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:07:11",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/d97e8775351641e6b3fb7e20c4a9e494.png",
       "is_good": true
     },
@@ -10305,7 +10321,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-11 09:59:04",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261011/facd7a8b-69a7-4bd6-8f5c-bf862316f807.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10341,7 +10357,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-19 06:50:45",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261018/f1413f23-182b-4996-a9c6-3e0455ce18f1.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10377,7 +10393,7 @@
       "deposit": 1600.0,
       "price_type": "租金",
       "publish_time": "2026-10-06 20:10:50",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026106/096578a2-8dc8-4362-b633-336a06653696.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10431,7 +10447,7 @@
       "deposit": 1700.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 16:07:05",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026103/53b5c660-e9c2-4525-b383-603329d37e7c.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10485,7 +10501,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-10 15:37:49",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/83435673-e14c-44c9-b916-342688abbf23.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10539,7 +10555,7 @@
       "deposit": 1300.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 16:34:11",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/71c6e8bd-8304-4244-a37c-12a49a2015a9.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10593,7 +10609,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 16:01:42",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/5d8f76e0-d28d-4ef7-a684-e499ef5deceb.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10647,7 +10663,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 14:39:06",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/c74dc8d7-2e71-4868-9a07-df974943c243.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10665,7 +10681,7 @@
       "deposit": 1560.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 18:30:07",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/27910b4d64d44b74b560e9e89bc519c8.png",
       "is_good": true
     },
@@ -10719,7 +10735,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 14:29:01",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/132d4a53-5075-4169-a0fc-d11e9b278bbf.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -10917,7 +10933,7 @@
       "deposit": 1020.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:45:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/3614b1550637418086ee174f0584a345.jpg",
       "is_good": true
     },
@@ -10953,7 +10969,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 11:02:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/bd65c083-04c6-4d43-8819-a3bb3c78b5a9.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11043,7 +11059,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-07 17:40:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026107/6407e409-1278-43f8-81ac-36503f303d2b.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11079,7 +11095,7 @@
       "deposit": 4000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 21:14:32",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/f92b5b11-3642-402e-9fe7-730001b9bdab.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11097,7 +11113,7 @@
       "deposit": 1052.4,
       "price_type": "租金",
       "publish_time": "2026-11-03 01:25:49",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/beb1bf0d97c148679070fd96f30ba331.jpg",
       "is_good": true
     },
@@ -11133,7 +11149,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:31:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/b9bc078777d5458283819d0fcaebe545.jpg",
       "is_good": true
     },
@@ -11169,7 +11185,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 14:24:20",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/9878160d-ab00-4e48-8c7a-d483bcabb184.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11187,7 +11203,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-08 00:26:50",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026108/b6e3e70a-e21d-4ad6-8c99-a662057bdb6d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11205,7 +11221,7 @@
       "deposit": 1320.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 01:00:00",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11223,7 +11239,7 @@
       "deposit": 900.0,
       "price_type": "售价",
       "publish_time": "2026-10-31 18:23:25",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://img.ysc9.com/2026/10/31/2c9b548ba138523201a1917a438a0c34.jpg",
       "is_good": true
     },
@@ -11241,7 +11257,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-27 16:50:04",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": true
     },
@@ -11367,7 +11383,7 @@
       "deposit": 1500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:30:03",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11385,7 +11401,7 @@
       "deposit": 2000.0,
       "price_type": "售价",
       "publish_time": "2026-11-03 19:14:38",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://img.ysc9.com/2026/11/03/2c9b548ba19b877001a1a11b64a3063d.jpg",
       "is_good": true
     },
@@ -11403,7 +11419,7 @@
       "deposit": 1331.32,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:48:09",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11439,7 +11455,7 @@
       "deposit": 1786.2,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:30:13",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11475,7 +11491,7 @@
       "deposit": 1531.2,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:31:50",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11493,7 +11509,7 @@
       "deposit": 2800.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 21:30:06",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11583,7 +11599,7 @@
       "deposit": 3000.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 00:59:07",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/5764fb6a-dea0-458a-8706-ba28d851ef1a.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11601,7 +11617,7 @@
       "deposit": 4000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 19:16:30",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/a1ac44f3-580a-43fc-9dcc-fc2c32ce7731.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11619,7 +11635,7 @@
       "deposit": 7346.94,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:40:01",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11655,7 +11671,7 @@
       "deposit": 2172.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 02:30:04",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://files.xubei.com/demon/4a5d31da4c024df2b1561e36203fffc1.jpg",
       "is_good": true
     },
@@ -11673,7 +11689,7 @@
       "deposit": 6000.0,
       "price_type": "租金",
       "publish_time": "2026-10-18 17:55:20",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261010/7387008c-757f-4db2-8a7c-536238003965.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": true
     },
@@ -11709,7 +11725,7 @@
       "deposit": 12280.0,
       "price_type": "租金",
       "publish_time": "2026-10-30 11:32:07",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": null,
       "is_good": true
     },
@@ -11727,7 +11743,7 @@
       "deposit": 19.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T23:24:26+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -11871,7 +11887,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:18:01",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/02fd9d2d-d194-47fe-b87b-f5146c95a778.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -11907,7 +11923,7 @@
       "deposit": 105.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:44:57+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -11979,7 +11995,7 @@
       "deposit": 300.0,
       "price_type": "售价",
       "publish_time": "2026-11-03 22:55:07",
-      "fetch_time": "2026-11-03 23:31:13",
+      "fetch_time": "2026-11-03 23:31:14",
       "image_url": "https://img.ysc9.com/2026/11/03/2c9b548ba19b877001a1a1e6c44b083a.jpg",
       "is_good": false
     },
@@ -12015,7 +12031,7 @@
       "deposit": 200.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:26:58",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/133492bb-e08d-4e4a-831d-250396dc41a1.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13059,7 +13075,7 @@
       "deposit": 188.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T22:45:14+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -13329,7 +13345,7 @@
       "deposit": 237.0,
       "price_type": "租金",
       "publish_time": "2026-11-03T13:53:19+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -13437,7 +13453,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:12:50",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/95f1e089-e784-45b4-becf-082636c1f14e.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13545,7 +13561,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 00:08",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": null,
       "is_gone": false,
       "is_good": false
@@ -13618,7 +13634,7 @@
       "deposit": 150.0,
       "price_type": "租金",
       "publish_time": "2026-09-30T10:55:12.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/48b672cc193172ab0bbbc6124.jpg",
       "is_good": false
     },
@@ -13636,7 +13652,7 @@
       "deposit": 500.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:50:46",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/36d34ef9-4848-49cd-b3ea-752f70d89d71.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13672,7 +13688,7 @@
       "deposit": 400.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 01:28:19",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/621fec73-efd7-43eb-bd37-93ab891941ed.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13708,7 +13724,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-09-30T19:52:22.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/a14b4a25a0edcb0cb7eafff66.jpg",
       "is_good": false
     },
@@ -13726,7 +13742,7 @@
       "deposit": 427.0,
       "price_type": "租金",
       "publish_time": "2026-11-02T20:53:30+08:00",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -13816,7 +13832,7 @@
       "deposit": 100.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T04:21:51.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/5b2d281290136afdad34441c7.jpg",
       "is_good": false
     },
@@ -13870,7 +13886,7 @@
       "deposit": 450.0,
       "price_type": "租金",
       "publish_time": "2026-09-30T23:53:43.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/2c735de38f0399b9129774814.jpg",
       "is_good": false
     },
@@ -13888,7 +13904,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 21:17:04",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/d8b3b23f-179a-41c2-9ef9-ef02ee8871db.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13906,7 +13922,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-04T15:08:17.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/9caff0f9b5ef296c3cf20f4e3.jpg",
       "is_good": false
     },
@@ -13960,7 +13976,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 23:02:14",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/e09d86cc-d992-4f8b-9f50-159291b07393.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -13996,7 +14012,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-09-30T17:04:51.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/1f3b15d1b20e55554e7522808.jpg",
       "is_good": false
     },
@@ -14068,7 +14084,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 21:27:31",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/0a3535ae-42dc-4914-9a82-84e4f0facc9b.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14104,7 +14120,7 @@
       "deposit": 780.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 21:55:30",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261031/31ec7c37-c48d-4177-bbcf-56daf08a7548.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14122,7 +14138,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-09-24T11:13:13.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/fd78e7e7f4ad77b2fc353880e.jpg",
       "is_good": false
     },
@@ -14140,7 +14156,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 09:25:48",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/c3673009-8a1e-4436-9a60-efba56e8c954.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14158,7 +14174,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-10-28 11:17:44",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261028/33b223d5-1cf2-4505-b114-47cd2ede9da5.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14176,7 +14192,7 @@
       "deposit": 400.0,
       "price_type": "租金",
       "publish_time": "2026-10-05T04:20:29.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/26f238aa7a50254cbfaa92f17.jpg",
       "is_good": false
     },
@@ -14194,7 +14210,7 @@
       "deposit": 666.0,
       "price_type": "租金",
       "publish_time": "2026-11-02 19:19:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026112/47968c8a-dcd1-4908-af71-99fbb7bb84ff.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14320,7 +14336,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-10-29 02:23:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261029/3efda827-5df3-4bc1-8794-4c606c907809.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14338,7 +14354,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 16:58:54",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/e3233376-c3ad-436c-b278-2b8f811dbff7.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14374,7 +14390,7 @@
       "deposit": 780.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 15:26:57",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261028/33fde1cd-25be-44c9-a772-00aac0dd0b8d.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14554,7 +14570,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:11:39",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/0e704ae8-225c-4136-a692-c3814f4373fe.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14572,7 +14588,7 @@
       "deposit": 700.0,
       "price_type": "租金",
       "publish_time": "2026-11-01 14:14:19",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026111/7200baaf-2320-4766-9e76-19d636dd10ad.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -14608,7 +14624,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 22:10:57",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -14752,7 +14768,7 @@
       "deposit": 600.0,
       "price_type": "租金",
       "publish_time": "2026-10-03T14:30:08.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/39860d1467d27afb735491f32.jpg",
       "is_good": false
     },
@@ -14932,7 +14948,7 @@
       "deposit": 800.0,
       "price_type": "租金",
       "publish_time": "2026-10-07 15:53:22",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026928/8b4376a3-370d-4af5-aae6-e8b642c132ac.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -15094,7 +15110,7 @@
       "deposit": 300.0,
       "price_type": "租金",
       "publish_time": "2026-09-14T12:52:00.000Z",
-      "fetch_time": "2026-11-03 23:31:34",
+      "fetch_time": "2026-11-03 23:31:35",
       "image_url": "https://lzh-dealer-image.oss-cn-shanghai.aliyuncs.com/product/8a7d99057f317ec086837e3d5.jpg",
       "is_good": false
     },
@@ -15220,7 +15236,7 @@
       "deposit": 1000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 17:09:54",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/23e96882-90d2-4f5f-8e5c-2d80b99cef89.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -15292,7 +15308,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-11-03 16:17:44",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/2026113/5431e27b-1521-46c7-88be-a68f24089985.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -15310,7 +15326,7 @@
       "deposit": 2000.0,
       "price_type": "租金",
       "publish_time": "2026-10-16 20:56:32",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261016/ede5d0f7-4cbe-4aef-a6ff-bdd4d313c384.png?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     },
@@ -15472,7 +15488,7 @@
       "deposit": 2200.0,
       "price_type": "租金",
       "publish_time": "2026-10-31 09:02:15",
-      "fetch_time": "2026-11-03 23:31:33",
+      "fetch_time": "2026-11-03 23:31:34",
       "image_url": null,
       "is_good": false
     },
@@ -15490,16 +15506,16 @@
       "deposit": 4500.0,
       "price_type": "租金",
       "publish_time": "2026-10-26 21:58:18",
-      "fetch_time": "2026-11-03 23:31:36",
+      "fetch_time": "2026-11-03 23:31:37",
       "image_url": "https://img.guaishouw.com/img/20261026/0fde7e44-4bc9-4504-9e7e-de406a4517d5.jpg?imageView2/1/format/webp/ignore-error/1",
       "is_good": false
     }
   ],
   "meta": {
     "total_listed": 627,
-    "good_count": 328,
-    "gone_count": 5,
-    "listed_count": 536,
+    "good_count": 329,
+    "gone_count": 4,
+    "listed_count": 537,
     "schedule": "every 1 minute"
   }
 }
